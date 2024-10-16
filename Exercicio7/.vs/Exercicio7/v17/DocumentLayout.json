@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fabio Contarini\\Desktop\\Exercicio-He\\Exercicio7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA3AAA1-F0BF-42BA-BE3B-2EC8918B78AF}|Exercicio7\\Exercicio7.csproj|c:\\users\\fabio contarini\\desktop\\exercicio-he\\exercicio7\\exercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA3AAA1-F0BF-42BA-BE3B-2EC8918B78AF}|Exercicio7\\Exercicio7.csproj|solutionrelative:exercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA3AAA1-F0BF-42BA-BE3B-2EC8918B78AF}|Exercicio7\\Exercicio7.csproj|c:\\users\\fabio contarini\\desktop\\exercicio-he\\exercicio7\\exercicio7\\contagenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA3AAA1-F0BF-42BA-BE3B-2EC8918B78AF}|Exercicio7\\Exercicio7.csproj|solutionrelative:exercicio7\\contagenerica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaGenerica.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\Exercicio-He\\Exercicio7\\Exercicio7\\ContaGenerica.cs",
+              "RelativeDocumentMoniker": "Exercicio7\\ContaGenerica.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\Exercicio-He\\Exercicio7\\Exercicio7\\ContaGenerica.cs",
+              "RelativeToolTip": "Exercicio7\\ContaGenerica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:47:27.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabio Contarini\\Desktop\\Exercicio-He\\Exercicio7\\Exercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabio Contarini\\Desktop\\Exercicio-He\\Exercicio7\\Exercicio7\\Program.cs",
+              "RelativeToolTip": "Exercicio7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAADXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:42:06.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
